@@ -1,4 +1,4 @@
-![orxai.com](profile/github-banner.png)
+[![orxai.com](profile/github-banner.png)](https://www.orxai.com)
 
 # Welcome to ORX AI
 
@@ -8,7 +8,6 @@ We're doing research on making deep learning more efficient.
 ## Follow us
 
 * [Website](https://www.orxai.com)
-* [GitHub](https://github.com/orxaicom)
 * [Twitter](https://twitter.com/orxaicom)
 * [YouTube](https://www.youtube.com/@orxaicom)
 * [HuggingFace](https://huggingface.co/orxaicom)
