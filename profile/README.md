@@ -1,4 +1,4 @@
-![orxai.com](/assets/images/banner.png)
+![orxai.com](banner.png?raw=true)
 
 # Welcome to ORX AI
 
