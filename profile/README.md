@@ -1,4 +1,4 @@
-![orxai.com](profile/banner.png)
+![orxai.com](profile/github-banner.png)
 
 # Welcome to ORX AI
 
