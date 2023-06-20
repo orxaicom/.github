@@ -12,6 +12,7 @@ We're doing research on making deep learning more efficient.
 * [YouTube](https://www.youtube.com/@orxaicom)
 * [HuggingFace](https://huggingface.co/orxaicom)
 * [Kaggle](https://www.kaggle.com/orxaicom)
+* [Replit](https://replit.com/@orxaicom)
 * [GitLab](https://gitlab.com/orxaicom)
 * [Reddit](https://www.reddit.com/user/orxaicom)
 * [Twitch](https://www.twitch.tv/orxaicom)
