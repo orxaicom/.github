@@ -5,7 +5,7 @@
 ORX AI aspires to contribute to the advent of safe AGI.
 We're doing research on making deep learning more efficient.
 
-## Follow us
+## Links
 
 * [Website](https://www.orxai.com)
 * [Twitter](https://twitter.com/orxaicom)
