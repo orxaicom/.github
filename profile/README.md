@@ -2,12 +2,14 @@
 
 # Welcome to ORX AI
 
-ORX AI aspires to contribute to the advent of safe AGI.
-We're doing research on making deep learning more efficient.
+Join our [challenge](https://github.com/orxaicom/daily-arxiv-code)
+to implement AI related papers in one day.
+Hang out on [our Discord](https://discord.gg/mEXzQsJbvP).
 
 ## Links
 
 * [Website](https://www.orxai.com)
+* [Discord](https://discord.gg/mEXzQsJbvP)
 * [Twitter](https://twitter.com/orxaicom)
 * [YouTube](https://www.youtube.com/@orxaicom)
 * [HuggingFace](https://huggingface.co/orxaicom)
