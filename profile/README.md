@@ -4,6 +4,7 @@
 
 Join our [challenge](https://github.com/orxaicom/daily-arxiv-code)
 to implement AI related papers in one day.
+
 Hang out on [our Discord](https://discord.gg/mEXzQsJbvP).
 
 ## Links
