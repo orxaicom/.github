@@ -1,4 +1,4 @@
-![orxai.com](profile/github-banner.png)
+![orxai.com](./github-banner.png)
 
 # Welcome
 
