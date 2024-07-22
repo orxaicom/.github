@@ -1,9 +1,5 @@
 ![orxai.com](./github-banner.png)
 
-# Welcome
-
-Join our [challenge](https://github.com/orxaicom/daily-arxiv-code)
-to implement AI related papers in one day.
 
 ## Links
 
