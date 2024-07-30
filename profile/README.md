@@ -5,7 +5,7 @@
 
 * [Website](https://www.orxai.com)
 * [Discord](https://discord.gg/mEXzQsJbvP)
-* [Twitter](https://twitter.com/orxaicom)
+* [X](https://x.com/orxaicom)
 * [YouTube](https://www.youtube.com/@orxaicom)
 * [HuggingFace](https://huggingface.co/orxaicom)
 * [Kaggle](https://www.kaggle.com/orxaicom)
